@@ -8,7 +8,7 @@ sales_data = {
 sales_data = pd.DataFrame(sales_data)
 print("# Creating the DataFrame")
 print(sales_data)
-
+#####
 # Display the first 3 rows of the DataFrame
 print("Display the first 3 rows of the DataFrame")
 sales_data_subset = sales_data.head(3)
